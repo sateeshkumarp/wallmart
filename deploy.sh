@@ -1,3 +1,1 @@
-updating this file
-hello this file contains the deployment script..
-.
+hello this file contains the deployment script...
